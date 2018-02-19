@@ -34,7 +34,7 @@ before 'deploy:check', 'capistrano_dirty:check'
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/capistrano-dirty.
+Bug reports and pull requests are welcome on GitHub at https://github.com/bluerail/capistrano-dirty
 
 ## License
 
